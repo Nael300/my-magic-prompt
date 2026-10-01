@@ -1,1 +1,1 @@
-about_cmd() { echo "My Magic Prompt - Projet Bash Modulaire"; }
+about_cmd() { echo "Un shell maison en Bash"; }
